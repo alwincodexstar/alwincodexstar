@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alwin
+- 👋 Hi, I’m @alwincodexstar
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...Innovations
 - 💞️ I’m looking to collaborate on ...New Concepts.
