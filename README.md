@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alwincodexstar
+- 👋 Hi, I’m Alwin <a href="https://github.com/alwincodexstar">@alwincodexstar</a>
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...Innovations
 - 💞️ I’m looking to collaborate on ...New Concepts.
-- 📫 How to reach me ...will let you know
+- 📫 How to reach me ...<a href="https://github.com/alwincodexstar">@alwincodexstar</a>
 
 - 🛠️ My Favourite tools
 
